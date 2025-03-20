@@ -94,4 +94,6 @@ function New-PSDOAgenda {
     }
     
     $agenda | Sort-Object -Property when | Format-Table when,title,presenters,keywords,interest -AutoSize
+    # presentations is at script level so interest will persist after each execution of New-PSDOAgenda... so we clear it.
+    $Presentations | ForEach-Object {$_.interest = 0}
 }
