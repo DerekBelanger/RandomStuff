@@ -45,14 +45,14 @@ function New-PSDOAgenda {
         [string[]]$PrioritySubjects
     )
     $Agenda =@()
-    # validate the PriorityPresenters
+    # validate for user input errors in PriorityPresenters
     foreach ($presenter in $PriorityPresenters) {
         if ($Presentations.presenters -notcontains $presenter) {
             throw "Invalid presenter: $presenter"
         }
     }
 
-    # validate the PrioritySubjects
+    # validate for user input errors in PrioritySubjects
     foreach ($subject in $PrioritySubjects) {
         if ($Presentations.keywords -notcontains $subject) {
             throw "Invalid subject: $subject"
