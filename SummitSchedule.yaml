@@ -1,0 +1,576 @@
+- title: "Welcome to PowerShell and DevOps Global Summit"
+  when: 4/7/2025, 9:00am
+  presenters:
+    - "James_Petty"
+  keywords:
+  
+- title: "Delivering Value Through Data with Trust, Understanding and Care"
+  when: 4/7/2025, 9:30am
+  presenters: 
+    - "Jennifer_Stirrup"
+  keywords:
+  
+- title: "State of the Shell"
+  when: 4/7/2025, 10:30am
+  presenters: 
+    - Jason_Helmick
+    - Sydney_Smith
+    - Steven_Bucher
+    - Damien_Caro
+  keywords:
+  
+- title: State of IaC
+  when: 4/7/2025, 11:15am
+  presenters: 
+    - TBA
+  keywords:
+  
+- title: A Scripters next step.. building a RESTful API
+  when: 4/7/2025, 1:00pm
+  presenters: 
+    - Ryan_Coates
+  keywords:
+    - API
+  
+- title: Entra ID and M365 as Code with DSC
+  when: 4/7/2025, 1:00pm
+  presenters: 
+    - Gael_Colas
+    - Raimund_Andree
+  keywords:
+    - Entra
+    - M365
+    - DSC
+    - ConfigMangement
+
+- title: "Modularizing PowerShell: Making Code Portable"
+  when: 4/7/2025, 1:00pm
+  presenters: 
+    - David_Whittaker
+  keywords:
+    - CodingPractices
+    - MakingModules
+
+- title: "PowerShell Essentials for Microsoft Entra ID: A Hands-On Lab"
+  when: 4/7/2025, 1:00pm
+  presenters: 
+    - Aleksandar_Nikolić
+  keywords:
+    - Entra
+    - M365
+
+- title: Individual Contributor Careers
+  when: 4/8/2025, 9:00am
+  presenters: 
+    - Jeffrey_Snover
+  keywords:
+
+- title: Building Resilient Automations with PowerShell
+  when: 4/8/2025, 9:55am
+  presenters: 
+    - Matthew_Dowst
+  keywords:
+    - CodingPractices
+
+- title: "Shell of an Idea: Some of the Untold PowerShell Stories that Microsoft People Can't Share"
+  when: 4/8/2025, 9:55am
+  presenters: 
+    - Don_Gannon-Jones
+  keywords:
+    - CodingPractices
+
+- title: Everything about code signing and how not to use it
+  when: 4/8/2025, 9:55am
+  presenters: 
+    - Raimund_Andree
+  keywords:
+    - CodingPractices
+
+- title: Microsoft BICEP 101
+  when: 4/8/2025, 9:55am
+  presenters: 
+    - TBA
+  keywords:
+    - BICEP
+    - IaC
+
+- title: "How Community, Teams, and Awesomeness Happens: Lessons from 20 Years of Leadership"
+  when: 4/8/2025, 11:00am
+  presenters: 
+    - Don_Gannon-Jones
+  keywords:
+    - Teambuilding
+    - Leadership
+
+- title: "PowerShell in CI/CD Pipelines: A Practical Tour of Deployment Options"
+  when: 4/8/2025, 11:00am
+  presenters: 
+    - Blake_Cherry
+    - Danny_Stutz
+  keywords:
+    - DevOps
+
+- title: "Code Golf: The zen of writing bad code"
+  when: 4/8/2025, 11:00am
+  presenters: 
+    - Kevin_Marquette
+    - Danny_Stutz
+  keywords:
+    - CodingPractices
+
+- title: "From Pets to Cattle, Learning to let go and automate"
+  when: 4/8/2025, 11:00am
+  presenters: 
+    - Anthony_Howell
+  keywords:
+    - CodingPractices
+
+- title: "PowerShell Performance and Technique Tweaks: The Encore"
+  when: 4/8/2025, 1:00pm
+  presenters: 
+    - Christian_Ritter
+  keywords:
+    - CodingPractices
+    - Performance
+
+- title: "PowerShell CLIXML Deserialization Attacks"
+  when: 4/8/2025, 1:00pm
+  presenters: 
+    - Alexander_Andersson
+  keywords:
+    - Security
+
+- title: "Getting Super Geeky with PowerShell Notebooks - It's Easy!"
+  when: 4/8/2025, 1:00pm
+  presenters: 
+    - Joe_Houghes
+  keywords:
+    - CodingPractices
+    - Tools
+
+- title: "M365 Automation using PowerShell in Azure Function"
+  when: 4/8/2025, 1:00pm
+  presenters: 
+    - Samir_Makwana
+  keywords:
+    - AzureFunctions
+    - M365
+
+- title: "Pimp Your Parameters: The Magic of PowerShell Argument Completers"
+  when: 4/8/2025, 2:35pm
+  presenters: 
+    - Emrys_MacInally
+  keywords:
+    - CodingPractices
+        
+- title: "Mistake-Proofing: Poka-Yoke for PowerShell scripts and functions"
+  when: 4/8/2025, 2:35pm
+  presenters: 
+    - Joel_Bennett
+  keywords:
+    - CodingPractices
+
+- title: "Unveiling Insights: Data Mining vSphere Environments with PowerCLI"
+  when: 4/8/2025, 2:35pm
+  presenters: 
+    - Phil_Bossman
+  keywords:
+    - VMWare
+    - Hypervisors
+
+- title: "The Incredible Extensible PSObject"
+  when: 4/8/2025, 2:35pm
+  presenters: 
+    - James_Brundage
+  keywords:
+    - CodingPractices
+    - Objects
+
+- title: "Lightning Demos"
+  when: 4/8/2025, 3:30pm
+  presenters: 
+    - TBA
+  keywords:
+
+- title: "CLI Tools for DevOps from A to Z"
+  when: 4/9/2025, 9:00am
+  presenters: 
+    - Joel_Bennett
+  keywords:
+    - DevOps
+    - Tools
+
+- title: "PowerShell for Pure Productivity and Perhaps Profit"
+  when: 4/9/2025, 9:00am
+  presenters: 
+    - Andrew_Pla
+    - James_Ruskin
+  keywords:
+    - Tools
+    - WindowsCustomization
+    - IDE
+
+- title: "PowerShell for Lab Automation: Hands-On with AutomatedLab"
+  when: 4/9/2025, 9:00am
+  presenters: 
+    - Phil_Bossman
+  keywords:
+    - Tools
+
+- title: "Getting started with Dev Containers in VS Code"
+  when: 4/9/2025, 9:00am
+  presenters: 
+    - Anthony_Howell
+  keywords:
+    - Tools
+    - VSCode
+    - IDE
+    - Containers
+    - DevOps
+
+- title: "Building a Web App with PowerShell Universal"
+  when: 4/9/2025, 9:45am
+  presenters: 
+    - Adam_Driscoll
+  keywords:
+    - Tools
+    - Web      
+
+- title: "Terraform 101"
+  when: 4/9/2025, 9:45am
+  presenters: 
+    - Mark_Gray
+  keywords:
+    - Terraform
+    - IaC        
+ 
+- title: "Entra PowerShell vs. Graph PowerShell"
+  when: 4/9/2025, 9:45am
+  presenters: 
+    - Aleksandar_Nikolić
+  keywords:
+    - Entra
+    
+- title: "99 Problems, but Slow PowerShell Ain't One! A.K.A. Use Profiler to Find Performance Issues!"
+  when: 4/9/2025, 9:45am
+  presenters: 
+    - Rob_Pleau
+  keywords:
+    - CodingPractices
+    - Performance       
+
+- title: "Desired State Configuration DSCv3.0"
+  when: 4/9/2025, 11:00am
+  presenters: 
+    - Steve_Lee
+    - Michael_Greene
+  keywords:
+    - DSC
+    - Tools
+    - ConfigMangement     
+
+- title: "Notification strategies to stay informed"
+  when: 4/9/2025, 11:00am
+  presenters: 
+    - Josh_Hendricks
+  keywords:
+    - Tools
+
+- title: "Unlocking the Benefits of Database DevOps and Automation"
+  when: 4/9/2025, 11:00am
+  presenters: 
+    - Kellyn_Gorman
+  keywords:
+    - Database
+    - DevOps
+
+- title: "Stop Writing Insecure PowerShell! Seriously."
+  when: 4/9/2025, 11:00am
+  presenters: 
+    - Rob_Pleau
+  keywords:
+    - CodingPractices
+    - Security
+
+- title: "The Human Side of PowerShell Scripting"
+  when: 4/9/2025, 1:00pm
+  presenters: 
+    - Jeffery_Hicks
+  keywords:
+    - CodingPractices
+    - Leadership
+
+- title: "Microsoft Terraform + CI/CD 45 mins"
+  when: 4/9/2025, 1:00pm
+  presenters: 
+    - TBA
+  keywords:
+    - Terraform
+    - IaC
+    - DevOps
+
+- title: "Script Design - Design practices that scale with your Growth"
+  when: 4/9/2025, 1:00pm
+  presenters: 
+    - Friedrich_Weinmann
+  keywords:
+    - CodingPractices
+    - MakingModules
+
+- title: "Chocolatey"
+  when: 4/9/2025, 1:00pm
+  presenters: 
+    - TBA
+  keywords:
+    - Tools
+
+- title: "Creating Automation with APIs and PowerShell"
+  when: 4/9/2025, 1:50pm
+  presenters: 
+    - Mike_Nelson
+  keywords:
+    - API
+
+- title: "Empowering Teams: Transforming Your Organization with a PowerShell and Toolmaking Community"
+  when: 4/9/2025, 1:50pm
+  presenters: 
+    - Danny_Stutz
+    - Frank_Lesniak
+  keywords:
+    - Leadership
+    - Teambuilding
+    - CodingPractices
+
+- title: "Pimp Your Parameters: The Magic of Transformation Classes"
+  when: 4/9/2025, 1:50pm
+  presenters: 
+    - Emrys_MacInally
+  keywords:
+    - CodingPractices
+    - MakingModules
+
+- title: "Power in the Cloud: Efficient Azure Management with CloudShell and Local Containers"
+  when: 4/9/2025, 1:50pm
+  presenters: 
+    - Phil_Bossman
+  keywords:
+    - Azure
+    - Containers
+
+- title: "Pure Storage"
+  when: 4/9/2025, 2:20pm
+  presenters: 
+    - TBA
+  keywords:
+    - Tools
+
+- title: "Unlocking Productivity with GitHub Copilot in 45 min"
+  when: 4/9/2025, 2:20pm
+  presenters: 
+    - Peter_De_Tender
+  keywords:
+    - GitHub
+    - Copilot
+
+- title: "AI Shell"
+  when: 4/9/2025, 2:20pm
+  presenters: 
+    - Steven_Bucher
+  keywords:
+    - AI
+
+- title: "Better Modules for less effort - PSFramework for Module Builders"
+  when: 4/9/2025, 3:30pm
+  presenters: 
+    - Friedrich_Weinmann
+  keywords:
+    - Tools
+    - CodingPractices
+    - MakingModules
+
+- title: "MSFT / TF Deep Dive"
+  when: 4/9/2025, 3:30pm
+  presenters: 
+    - TBA
+  keywords:
+    - Terraform
+    - IaC
+
+- title: "Mastering git collaboration"
+  when: 4/9/2025, 3:30pm
+  presenters: 
+    - Gael_Colas
+    - Raimund_Andree
+  keywords:
+    - GitHub
+
+- title: "Creating Intuitive AI Agents for PowerShell with AIShell"
+  when: 4/9/2025, 3:30pm
+  presenters: 
+    - Mike_Nelson
+  keywords:
+    - AI
+
+- title: "Full Stack PowerShell"
+  when: 4/9/2025, 3:30pm
+  presenters: 
+    - James_Brundage
+  keywords:
+    - CodingPractices
+
+- title: "MSFT / Bicep Deep Dive"
+  when: 4/10/2025, 9:00am
+  presenters: 
+    - TBA
+  keywords:
+    - IaC
+    - BICEP
+
+- title: "Building an LLM on your Laptop to Learn Faster"
+  when: 4/10/2025, 9:00am
+  presenters: 
+    - Joe_Houghes
+    - Anthony_Nocentino
+  keywords:
+    - AI
+
+- title: "What's new with PlatyPS"
+  when: 4/10/2025, 9:00am
+  presenters: 
+    - Sean_Wheeler
+  keywords:
+    - Tools
+    - MakingModules
+
+- title: "The Many Ways to Run PowerShell in Azure"
+  when: 4/10/2025, 9:00am
+  presenters: 
+    - Justin_Grote
+  keywords:
+    - Azure
+
+- title: "Pach My PC"
+  when: 4/10/2025, 11:00am
+  presenters: 
+    - TBA
+  keywords:
+    - Tools
+
+- title: "Empower Your Helpdesk: Turn Scripts into Dynamic Web Forms with Pode and Pode.Web"
+  when: 4/10/2025, 11:00am
+  presenters: 
+    - Christian_Ritter
+  keywords:
+    - Tools
+    - Web
+
+- title: "The Rise of Open Standards in Observability"
+  when: 4/10/2025, 11:00am
+  presenters: 
+    - Joel_Bennett
+  keywords:
+    - Observability
+
+- title: "Classes and Broadcasts: Building a PowerShell Module for Instant Visual Settings"
+  when: 4/10/2025, 11:00am
+  presenters: 
+    - Arnoud_Jansveld
+  keywords:
+    - MakingModules
+    - WindowsCustomization
+
+- title: "Microsoft AVM / Landing Zones Best Practices - 45 mins"
+  when: 4/10/2025, 1:00pm
+  presenters: 
+    - TBA
+  keywords:
+    - Azure
+
+- title: "MSAL Authentication: Auth isn't hard (Auth isn't easy either)"
+  when: 4/10/2025, 1:00pm
+  presenters: 
+    - Ben_Reader
+  keywords:
+    - Authentication
+    - MSGraph
+    - Azure
+    - Entra
+
+- title: "Things Your AI Team Would Like Their DevOps Teams to Know"
+  when: 4/10/2025, 1:00pm
+  presenters: 
+    - Jennifer_Stirrup
+  keywords:
+    - AI
+    - DevOps
+
+- title: "Securing the Supply Chain: PSResourceGet and ORAS in Automation and Configuration"
+  when: 4/10/2025, 1:00pm
+  presenters: 
+    - Michael_Greene
+  keywords:
+    - Artifacts
+    - Containers
+
+- title: "Entra ID PIM Activation ...but better... With JAz.PIM"
+  when: 4/10/2025, 1:45pm
+  presenters: 
+    - Justin_Grote
+  keywords:
+    - Entra
+    - Tools
+
+- title: "PowerShell Everywhere: Unleashing the Power of Cross-Platform Scripting"
+  when: 4/10/2025, 1:45pm
+  presenters: 
+    - Frank_Lesniak
+    - Danny_Stutz
+  keywords:
+    - Cross-Platform
+
+- title: "Automated Assurance: Testing Your IaC with Pester and CI/CD Pipelines"
+  when: 4/10/2025, 1:45pm
+  presenters: 
+    - Matthew_Dowst
+  keywords:
+    - DevOps
+
+- title: "Ansible and Windows. How PowerShell enables a Linux config manager to work in a Windows world?"
+  when: 4/10/2025, 1:45pm
+  presenters: 
+    - Paul_Broadwith
+  keywords:
+    - ConfigMangement
+    - Ansible
+
+- title: "Stacked for Success: PowerShell Callstacks in Everyday Scripts"
+  when: 4/10/2025, 2:45pm
+  presenters: 
+    - Stephen_Valdinger
+  keywords:
+    - CodingPractices
+
+- title: "Supercharge Your PowerShell: Harnessing ChatGPT and GitHub Copilot for Advanced Script Authoring"
+  when: 4/10/2025, 2:45pm
+  presenters: 
+    - Danny_Stutz
+    - Frank_Lesniak
+  keywords:
+    - Copilot
+    - AI
+    - GitHub
+
+- title: "DevOps not ClickOps: making end user compute management a first class citizen"
+  when: 4/10/2025, 2:45pm
+  presenters: 
+    - Steven_Hosking
+  keywords:
+    - DevOps
+
+- title: "MSFT Bicep + CI/CD 45 mins"
+  when: 4/10/2025, 2:45pm
+  presenters: 
+    - TBA
+  keywords:
+    - BICEP
+    - IaC
