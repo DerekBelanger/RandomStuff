@@ -1,3 +1,9 @@
+# resolve module dependancy for yaml support
+if (-not (Get-Module -Name 'powershell-yaml' -ListAvailable)) {
+    Install-Module -Name 'powershell-yaml' -Scope CurrentUser -Force
+}
+Import-Module -Name 'powershell-yaml'
+
 # Load YAML data once and store in variables
 # Maybe add handling file and formatting exceptions
 # Another idea: -ExcludePresenter and -ExcludeSubject
